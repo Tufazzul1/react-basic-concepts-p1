@@ -1,0 +1,12 @@
+.book{
+    border: 2px solid tomato;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.book-store{
+    border: red 2px solid;
+    border-radius: 10px;
+}
